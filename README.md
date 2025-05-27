@@ -1,8 +1,11 @@
 # network-anomaly-detection
 
-### 🔗 Model Files
+## 🔗 Model Artifacts (Download Links)
 
-The model and scaler files used for deployment are hosted externally due to size limits:
+- [anomalymodel_v2.pkl](https://drive.google.com/uc?id=1X2RJfu8wVvTX5gYN558RMKNt8w1DovT1)
+- [scaler_v2.pkl](https://drive.google.com/uc?id=1oY7tER5OTV_SuKe6u5tvOcCRwKn9VWn2)
+- [columns_used.pkl](https://drive.google.com/uc?id=1eBX6_QbIHUHldPhr6tNL3xHOL_AxgRNa)
+- [labelencoder.pkl](https://drive.google.com/uc?id=16uQDOP_7os2CC2LGS1i84nd5dCLQ46zf)
 
-- [Download anomalymodel.pkl](https://drive.google.com/uc?id=1vQ5MbtdNElMQC8fxTdlFAnBBXdsW49NK)
-- [Download scaler.pkl](https://drive.google.com/uc?id=179tYueY_YU1eFvuwb-qAQtNXVOYIfYdB)
+
+
